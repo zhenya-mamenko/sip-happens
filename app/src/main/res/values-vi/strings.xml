@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Tối đa</string>
+    <string name="reset_counter">Đặt lại bộ đếm</string>
+    <string name="counter_hint">Nhập giá trị tối đa (1–99)</string>
+    <string name="invalid_range_message">Giá trị phải từ 1 đến 99</string>
+    <string name="play_sounds_label">Phát âm thanh</string>
+</resources>

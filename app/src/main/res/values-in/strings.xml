@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Maksimum</string>
+    <string name="reset_counter">Reset penghitung</string>
+    <string name="counter_hint">Masukkan maksimum (1–99)</string>
+    <string name="invalid_range_message">Nilai harus antara 1 dan 99</string>
+    <string name="play_sounds_label">Putar suara</string>
+</resources>

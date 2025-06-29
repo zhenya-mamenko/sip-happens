@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Maximum</string>
+    <string name="reset_counter">Resetare contor</string>
+    <string name="counter_hint">Introduceți maximul (1–99)</string>
+    <string name="invalid_range_message">Valoarea trebuie să fie între 1 și 99</string>
+    <string name="play_sounds_label">Redare sunete</string>
+</resources>

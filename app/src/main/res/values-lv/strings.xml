@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Maksimums</string>
+    <string name="reset_counter">Atiestatīt skaitītāju</string>
+    <string name="counter_hint">Ievadiet maksimumu (1–99)</string>
+    <string name="invalid_range_message">Vērtībai jābūt starp 1 un 99</string>
+    <string name="play_sounds_label">Atskaņot skaņas</string>
+</resources>

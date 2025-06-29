@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Максимум</string>
+    <string name="reset_counter">Эсептегичти баштапкы абалга келтирүү</string>
+    <string name="counter_hint">Максимумду киргизиңиз (1–99)</string>
+    <string name="invalid_range_message">Маани 1 менен 99 ортосунда болушу керек</string>
+    <string name="play_sounds_label">Үндөрдү ойнотуу</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">მაქსიმუმი</string>
+    <string name="reset_counter">მთვლელის გადატვირთვა</string>
+    <string name="counter_hint">შეიყვანეთ მაქსიმუმი (1–99)</string>
+    <string name="invalid_range_message">მნიშვნელობა უნდა იყოს 1-დან 99-მდე</string>
+    <string name="play_sounds_label">ხმების დაკვრა</string>
+</resources>

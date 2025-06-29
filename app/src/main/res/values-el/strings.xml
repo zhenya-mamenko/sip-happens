@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Μέγιστο</string>
+    <string name="reset_counter">Επαναφορά μετρητή</string>
+    <string name="counter_hint">Εισάγετε το μέγιστο (1–99)</string>
+    <string name="invalid_range_message">Η τιμή πρέπει να είναι μεταξύ 1 και 99</string>
+    <string name="play_sounds_label">Αναπαραγωγή ήχων</string>
+</resources>

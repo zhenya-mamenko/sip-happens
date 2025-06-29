@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Maksimum</string>
+    <string name="reset_counter">Lähtesta loendur</string>
+    <string name="counter_hint">Sisestage maksimum (1–99)</string>
+    <string name="invalid_range_message">Väärtus peab olema vahemikus 1 kuni 99</string>
+    <string name="play_sounds_label">Esita helisid</string>
+</resources>

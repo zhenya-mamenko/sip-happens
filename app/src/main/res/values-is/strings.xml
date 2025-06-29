@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Hámark</string>
+    <string name="reset_counter">Endurstilla teljarann</string>
+    <string name="counter_hint">Sláðu inn hámark (1–99)</string>
+    <string name="invalid_range_message">Gildið verður að vera á milli 1 og 99</string>
+    <string name="play_sounds_label">Spila hljóð</string>
+</resources>

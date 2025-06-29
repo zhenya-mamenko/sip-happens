@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Maksimumas</string>
+    <string name="reset_counter">Nustatyti skaitiklį iš naujo</string>
+    <string name="counter_hint">Įveskite maksimumą (1–99)</string>
+    <string name="invalid_range_message">Reikšmė turi būti tarp 1 ir 99</string>
+    <string name="play_sounds_label">Groti garsus</string>
+</resources>

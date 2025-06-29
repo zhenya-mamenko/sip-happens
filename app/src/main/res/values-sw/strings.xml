@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Upeo</string>
+    <string name="reset_counter">Weka upya kihesabu</string>
+    <string name="counter_hint">Ingiza upeo (1–99)</string>
+    <string name="invalid_range_message">Thamani lazima iwe kati ya 1 na 99</string>
+    <string name="play_sounds_label">Cheza sauti</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Gehienez</string>
+    <string name="reset_counter">Berrezarri zenbatzailea</string>
+    <string name="counter_hint">Sartu gehienezko balioa (1–99)</string>
+    <string name="invalid_range_message">Balioa 1 eta 99 artean egon behar da</string>
+    <string name="play_sounds_label">Erreproduzitu soinuak</string>
+</resources>

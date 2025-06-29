@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Maximum</string>
+    <string name="reset_counter">Resetovať počítadlo</string>
+    <string name="counter_hint">Zadajte maximum (1–99)</string>
+    <string name="invalid_range_message">Hodnota musí byť medzi 1 a 99</string>
+    <string name="play_sounds_label">Prehrať zvuky</string>
+</resources>

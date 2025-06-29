@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">الحد الأقصى</string>
+    <string name="reset_counter">إعادة تعيين العداد</string>
+    <string name="counter_hint">أدخل الحد الأقصى (1–99)</string>
+    <string name="invalid_range_message">يجب أن تكون القيمة بين 1 و 99</string>
+    <string name="play_sounds_label">تشغيل الأصوات</string>
+</resources>

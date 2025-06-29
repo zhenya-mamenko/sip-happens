@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">As motha</string>
+    <string name="reset_counter">Ath-shuidhich an cuntair</string>
+    <string name="counter_hint">Cuir a-steach as motha (1–99)</string>
+    <string name="invalid_range_message">Feumaidh an luach a bhith eadar 1 agus 99</string>
+    <string name="play_sounds_label">Cluich fuaimean</string>
+</resources>

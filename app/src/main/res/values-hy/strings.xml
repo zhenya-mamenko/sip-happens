@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Առավելագույն</string>
+    <string name="reset_counter">Զրոյացնել հաշվիչը</string>
+    <string name="counter_hint">Մուտքագրեք առավելագույնը (1–99)</string>
+    <string name="invalid_range_message">Արժեքը պետք է լինի 1-ից 99-ի միջև</string>
+    <string name="play_sounds_label">Նվագարկել ձայներ</string>
+</resources>

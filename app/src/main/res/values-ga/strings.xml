@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Uasmhéid</string>
+    <string name="reset_counter">Athshocraigh an comhaireamh</string>
+    <string name="counter_hint">Cuir isteach uasmhéid (1–99)</string>
+    <string name="invalid_range_message">Caithfidh an luach a bheith idir 1 agus 99</string>
+    <string name="play_sounds_label">Seinn fuaimeanna</string>
+</resources>

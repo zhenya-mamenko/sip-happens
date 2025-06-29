@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Максимум</string>
+    <string name="reset_counter">Ресетуј бројач</string>
+    <string name="counter_hint">Унесите максимум (1–99)</string>
+    <string name="invalid_range_message">Вредност мора бити између 1 и 99</string>
+    <string name="play_sounds_label">Пусти звукове</string>
+</resources>

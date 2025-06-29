@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Maksimum</string>
+    <string name="reset_counter">Resetuj licznik</string>
+    <string name="counter_hint">Wprowadź maksimum (1–99)</string>
+    <string name="invalid_range_message">Wartość musi być między 1 a 99</string>
+    <string name="play_sounds_label">Odtwarzaj dźwięki</string>
+</resources>

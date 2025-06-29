@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">最大值</string>
+    <string name="reset_counter">重置計數器</string>
+    <string name="counter_hint">輸入最大值 (1–99)</string>
+    <string name="invalid_range_message">數值必須在1到99之間</string>
+    <string name="play_sounds_label">播放聲音</string>
+</resources>

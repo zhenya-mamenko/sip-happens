@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Uchafswm</string>
+    <string name="reset_counter">Ailosod y cyfrifer</string>
+    <string name="counter_hint">Rhowch yr uchafswm (1–99)</string>
+    <string name="invalid_range_message">Rhaid i\'r gwerth fod rhwng 1 a 99</string>
+    <string name="play_sounds_label">Chwarae synau</string>
+</resources>

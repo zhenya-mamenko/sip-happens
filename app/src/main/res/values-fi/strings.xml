@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Maksimi</string>
+    <string name="reset_counter">Nollaa laskuri</string>
+    <string name="counter_hint">Syötä maksimi (1–99)</string>
+    <string name="invalid_range_message">Arvon täytyy olla välillä 1–99</string>
+    <string name="play_sounds_label">Toista ääniä</string>
+</resources>

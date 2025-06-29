@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">अधिकतम</string>
+    <string name="reset_counter">काउंटर रीसेट करें</string>
+    <string name="counter_hint">अधिकतम दर्ज करें (1–99)</string>
+    <string name="invalid_range_message">मान 1 से 99 के बीच होना चाहिए</string>
+    <string name="play_sounds_label">ध्वनि चलाएं</string>
+</resources>

@@ -1,0 +1,7 @@
+I am excited to announce the first official release of SipHappens!
+
+Highlights:
+- Initial launch of the application
+- Core features implemented and tested
+- User-friendly interface
+- Basic documentation included

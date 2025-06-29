@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Maximum</string>
+    <string name="reset_counter">Számláló visszaállítása</string>
+    <string name="counter_hint">Adja meg a maximumot (1–99)</string>
+    <string name="invalid_range_message">Az értéknek 1 és 99 között kell lennie</string>
+    <string name="play_sounds_label">Hangok lejátszása</string>
+</resources>

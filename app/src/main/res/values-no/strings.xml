@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Maksimum</string>
+    <string name="reset_counter">Tilbakestill teller</string>
+    <string name="counter_hint">Skriv inn maksimum (1–99)</string>
+    <string name="invalid_range_message">Verdien må være mellom 1 og 99</string>
+    <string name="play_sounds_label">Spill av lyder</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sip Happens</string>
+    <string name="maximum_label">Максимум</string>
+    <string name="reset_counter">Бозсозии ҳисобгир</string>
+    <string name="counter_hint">Максимумро ворид кунед (1–99)</string>
+    <string name="invalid_range_message">Арзиш бояд байни 1 то 99 бошад</string>
+    <string name="play_sounds_label">Пахши садоҳо</string>
+</resources>
