@@ -13,7 +13,7 @@ android {
     defaultConfig {
         applicationId "com.mamenko.siphappens"
         minSdk 31
-        targetSdk 34
+        targetSdk 36
         versionCode versionCodeFromFile
         versionName versionNameFromFile
 
