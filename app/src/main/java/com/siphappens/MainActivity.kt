@@ -7,6 +7,10 @@ import android.widget.ImageView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate
+import androidx.core.view.ViewCompat
+import androidx.core.view.WindowInsetsCompat
+import androidx.core.view.updateLayoutParams
+import androidx.core.view.updatePadding
 import com.mamenko.siphappens.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -20,6 +24,24 @@ class MainActivity : AppCompatActivity() {
 
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+
+        val initialContentBottomPadding = binding.content.paddingBottom
+        val initialToolbarHeight = binding.toolbar.layoutParams.height
+        ViewCompat.setOnApplyWindowInsetsListener(binding.toolbar) { view, windowInsets ->
+            val statusBarInset = windowInsets.getInsets(WindowInsetsCompat.Type.statusBars()).top
+            view.updatePadding(top = statusBarInset)
+            view.updateLayoutParams {
+                height = initialToolbarHeight + statusBarInset
+            }
+            windowInsets
+        }
+        ViewCompat.setOnApplyWindowInsetsListener(binding.content) { view, windowInsets ->
+            view.updatePadding(
+                bottom = initialContentBottomPadding +
+                    windowInsets.getInsets(WindowInsetsCompat.Type.navigationBars()).bottom
+            )
+            windowInsets
+        }
 
         setupUI()
         loadSavedData()
