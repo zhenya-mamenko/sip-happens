@@ -12,7 +12,7 @@ android {
     def versionCodeFromFile = (versionParts[0]?.toInteger() ?: 0) * 10000 + (versionParts[1]?.toInteger() ?: 0) * 100 + (versionParts[2]?.toInteger() ?: 0)
     defaultConfig {
         applicationId "com.mamenko.siphappens"
-        minSdk 31
+        minSdk 36
         targetSdk 36
         versionCode versionCodeFromFile
         versionName versionNameFromFile
