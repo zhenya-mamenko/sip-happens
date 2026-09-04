@@ -1,4 +1,4 @@
-package com.siphappens
+package com.mamenko.siphappens
 
 import org.junit.runner.RunWith
 import org.junit.runners.Suite

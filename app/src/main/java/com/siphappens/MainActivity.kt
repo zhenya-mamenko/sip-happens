@@ -1,4 +1,4 @@
-package com.siphappens
+package com.mamenko.siphappens
 
 import android.os.Bundle
 import android.text.Editable
@@ -7,7 +7,7 @@ import android.widget.ImageView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate
-import com.siphappens.databinding.ActivityMainBinding
+import com.mamenko.siphappens.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,4 +1,4 @@
-package com.siphappens
+package com.mamenko.siphappens
 
 import android.app.PendingIntent
 import android.appwidget.AppWidgetManager
@@ -11,7 +11,7 @@ import android.widget.RemoteViews
 class SipHappensWidget : AppWidgetProvider() {
 
     companion object {
-        private const val ACTION_WIDGET_CLICK = "com.siphappens.ACTION_WIDGET_CLICK"
+        private const val ACTION_WIDGET_CLICK = "com.mamenko.siphappens.ACTION_WIDGET_CLICK"
         fun updateWidget(context: Context) {
             val appWidgetManager = AppWidgetManager.getInstance(context)
             val componentName = ComponentName(context, SipHappensWidget::class.java)

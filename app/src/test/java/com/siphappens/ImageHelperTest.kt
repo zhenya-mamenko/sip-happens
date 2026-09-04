@@ -1,4 +1,4 @@
-package com.siphappens
+package com.mamenko.siphappens
 
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNotEquals

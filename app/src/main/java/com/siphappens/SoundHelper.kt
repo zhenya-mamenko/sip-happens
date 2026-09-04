@@ -1,4 +1,4 @@
-package com.siphappens
+package com.mamenko.siphappens
 
 import android.content.Context
 import android.media.MediaPlayer
