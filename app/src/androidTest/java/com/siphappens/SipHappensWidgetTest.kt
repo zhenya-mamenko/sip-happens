@@ -1,4 +1,4 @@
-package com.siphappens
+package com.mamenko.siphappens
 
 import android.appwidget.AppWidgetManager
 import android.content.ComponentName
@@ -38,7 +38,7 @@ class SipHappensWidgetTest {
         PreferenceManager.setMaximum(context, 5)
 
         val intent = Intent(context, SipHappensWidget::class.java).apply {
-            action = "com.siphappens.ACTION_WIDGET_CLICK"
+            action = "com.mamenko.siphappens.ACTION_WIDGET_CLICK"
         }
 
         widget.onReceive(context, intent)
@@ -54,7 +54,7 @@ class SipHappensWidgetTest {
         PreferenceManager.setMaximum(context, maximum)
 
         val intent = Intent(context, SipHappensWidget::class.java).apply {
-            action = "com.siphappens.ACTION_WIDGET_CLICK"
+            action = "com.mamenko.siphappens.ACTION_WIDGET_CLICK"
         }
 
         widget.onReceive(context, intent)
@@ -69,7 +69,7 @@ class SipHappensWidgetTest {
         PreferenceManager.setMaximum(context, maximum)
 
         val intent = Intent(context, SipHappensWidget::class.java).apply {
-            action = "com.siphappens.ACTION_WIDGET_CLICK"
+            action = "com.mamenko.siphappens.ACTION_WIDGET_CLICK"
         }
 
         widget.onReceive(context, intent)
@@ -111,7 +111,7 @@ class SipHappensWidgetTest {
         PreferenceManager.setMaximum(context, 10)
 
         val intent = Intent(context, SipHappensWidget::class.java).apply {
-            action = "com.siphappens.ACTION_WIDGET_CLICK"
+            action = "com.mamenko.siphappens.ACTION_WIDGET_CLICK"
         }
 
         repeat(5) {

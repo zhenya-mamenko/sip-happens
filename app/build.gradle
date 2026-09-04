@@ -4,14 +4,14 @@ plugins {
 }
 
 android {
-    namespace 'com.siphappens'
+    namespace 'com.mamenko.siphappens'
     compileSdk 36
 
     def versionNameFromFile = file("$rootDir/VERSION").text.trim()
     def versionParts = versionNameFromFile.tokenize('.')
     def versionCodeFromFile = (versionParts[0]?.toInteger() ?: 0) * 10000 + (versionParts[1]?.toInteger() ?: 0) * 100 + (versionParts[2]?.toInteger() ?: 0)
     defaultConfig {
-        applicationId "com.siphappens"
+        applicationId "com.mamenko.siphappens"
         minSdk 31
         targetSdk 34
         versionCode versionCodeFromFile
@@ -20,9 +20,6 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
-    aaptOptions {
-        ignoreAssetsPattern "values-sr-rLatn"
-    }
 
     buildTypes {
         release {
@@ -51,6 +48,9 @@ android {
         checkReleaseBuilds false
         disable 'MissingTranslation', 'ExtraTranslation'
         enable 'UnusedResources'
+    }
+    androidResources {
+        ignoreAssetsPattern 'values-sr-rLatn'
     }
 }
 
