@@ -5,4 +5,5 @@
     <string name="counter_hint">Введіть максимум (1–99)</string>
     <string name="invalid_range_message">Значення має бути між 1 і 99</string>
     <string name="play_sounds_label">Відтворювати звуки</string>
+    <string name="add_widget_warning">🪄 Не забудьте додати віджет на головний екран, щоб рахувати свої напої ✨</string>
 </resources>

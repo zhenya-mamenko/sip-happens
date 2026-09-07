@@ -5,4 +5,5 @@
     <string name="counter_hint">შეიყვანეთ მაქსიმუმი (1–99)</string>
     <string name="invalid_range_message">მნიშვნელობა უნდა იყოს 1-დან 99-მდე</string>
     <string name="play_sounds_label">ხმების დაკვრა</string>
+    <string name="add_widget_warning">🪄 არ დაგავიწყდეთ მთავარ ეკრანზე ვიჯეტის დამატება, რათა თქვენი სასმელები დათვალოთ ✨</string>
 </resources>

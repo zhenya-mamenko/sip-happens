@@ -5,4 +5,5 @@
     <string name="counter_hint">输入最大值 (1–99)</string>
     <string name="invalid_range_message">数值必须在1到99之间</string>
     <string name="play_sounds_label">播放声音</string>
+    <string name="add_widget_warning">🪄 别忘了将小组件添加到主屏幕，以记录你的饮品数量 ✨</string>
 </resources>

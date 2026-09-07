@@ -5,4 +5,5 @@
     <string name="counter_hint">Внесете максимум (1–99)</string>
     <string name="invalid_range_message">Вредноста мора да биде помеѓу 1 и 99</string>
     <string name="play_sounds_label">Пушти звуци</string>
+    <string name="add_widget_warning">🪄 Не заборавајте да го додадете виџетот на почетниот екран за да ги броите вашите пијалаци ✨</string>
 </resources>

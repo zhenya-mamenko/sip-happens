@@ -5,4 +5,5 @@
     <string name="counter_hint">أدخل الحد الأقصى (1–99)</string>
     <string name="invalid_range_message">يجب أن تكون القيمة بين 1 و 99</string>
     <string name="play_sounds_label">تشغيل الأصوات</string>
+    <string name="add_widget_warning">🪄 لا تنسَ إضافة الأداة إلى الشاشة الرئيسية لعدّ مشروباتك ✨</string>
 </resources>

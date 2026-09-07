@@ -5,4 +5,5 @@
     <string name="counter_hint">Εισάγετε το μέγιστο (1–99)</string>
     <string name="invalid_range_message">Η τιμή πρέπει να είναι μεταξύ 1 και 99</string>
     <string name="play_sounds_label">Αναπαραγωγή ήχων</string>
+    <string name="add_widget_warning">🪄 Μην ξεχάσεις να προσθέσεις το γραφικό στοιχείο στην αρχική οθόνη για να μετράς τα ποτά σου ✨</string>
 </resources>

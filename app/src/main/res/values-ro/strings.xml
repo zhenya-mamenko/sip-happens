@@ -5,4 +5,5 @@
     <string name="counter_hint">Introduceți maximul (1–99)</string>
     <string name="invalid_range_message">Valoarea trebuie să fie între 1 și 99</string>
     <string name="play_sounds_label">Redare sunete</string>
+    <string name="add_widget_warning">🪄 Nu uita să adaugi widgetul pe ecranul principal pentru a-ți număra băuturile ✨</string>
 </resources>

@@ -5,4 +5,5 @@
     <string name="counter_hint">Увядзіце максімум (1–99)</string>
     <string name="invalid_range_message">Значэнне павінна быць паміж 1 і 99</string>
     <string name="play_sounds_label">Граць гукі</string>
+    <string name="add_widget_warning">🪄 Не забудзьце дадаць віджэт на галоўны экран, каб падлічваць свае напоі ✨</string>
 </resources>

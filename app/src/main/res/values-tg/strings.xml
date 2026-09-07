@@ -5,4 +5,5 @@
     <string name="counter_hint">Максимумро ворид кунед (1–99)</string>
     <string name="invalid_range_message">Арзиш бояд байни 1 то 99 бошад</string>
     <string name="play_sounds_label">Пахши садоҳо</string>
+    <string name="add_widget_warning">🪄 Фаромӯш накунед, ки виҷетро ба экрани асосӣ илова кунед, то нӯшокиҳои худро ҳисоб кунед ✨</string>
 </resources>

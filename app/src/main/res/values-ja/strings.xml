@@ -5,4 +5,5 @@
     <string name="counter_hint">最大値を入力 (1–99)</string>
     <string name="invalid_range_message">値は1から99の間である必要があります</string>
     <string name="play_sounds_label">音を再生</string>
+    <string name="add_widget_warning">🪄 飲み物の数を記録するために、ホーム画面にウィジェットを追加するのを忘れないでください ✨</string>
 </resources>

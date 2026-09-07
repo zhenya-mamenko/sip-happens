@@ -5,4 +5,5 @@
     <string name="counter_hint">Voer maximum in (1–99)</string>
     <string name="invalid_range_message">Waarde moet tussen 1 en 99 zijn</string>
     <string name="play_sounds_label">Geluiden afspelen</string>
+    <string name="add_widget_warning">🪄 Vergeet niet de widget aan het startscherm toe te voegen om je drankjes te tellen ✨</string>
 </resources>

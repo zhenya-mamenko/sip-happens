@@ -5,4 +5,5 @@
     <string name="counter_hint">Zadejte maximum (1–99)</string>
     <string name="invalid_range_message">Hodnota musí být mezi 1 a 99</string>
     <string name="play_sounds_label">Přehrát zvuky</string>
+    <string name="add_widget_warning">🪄 Nezapomeňte přidat widget na domovskou obrazovku, abyste mohli počítat své nápoje ✨</string>
 </resources>

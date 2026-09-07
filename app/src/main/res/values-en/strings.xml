@@ -5,4 +5,5 @@
     <string name="counter_hint">Enter maximum (1–99)</string>
     <string name="invalid_range_message">Value must be between 1 and 99</string>
     <string name="play_sounds_label">Play sounds</string>
+    <string name="add_widget_warning">🪄 Don\'t forget to add the widget to your home screen to count your drinks ✨</string>
 </resources>

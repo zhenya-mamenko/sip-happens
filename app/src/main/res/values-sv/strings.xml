@@ -5,4 +5,5 @@
     <string name="counter_hint">Ange maximum (1–99)</string>
     <string name="invalid_range_message">Värdet måste vara mellan 1 och 99</string>
     <string name="play_sounds_label">Spela upp ljud</string>
+    <string name="add_widget_warning">🪄 Glöm inte att lägga till widgeten på startskärmen för att räkna dina drinkar ✨</string>
 </resources>

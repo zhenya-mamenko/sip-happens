@@ -5,4 +5,5 @@
     <string name="counter_hint">Максимумду киргизиңиз (1–99)</string>
     <string name="invalid_range_message">Маани 1 менен 99 ортосунда болушу керек</string>
     <string name="play_sounds_label">Үндөрдү ойнотуу</string>
+    <string name="add_widget_warning">🪄 Суусундуктарыңызды саноо үчүн башкы экранга виджет кошууну унутпаңыз ✨</string>
 </resources>

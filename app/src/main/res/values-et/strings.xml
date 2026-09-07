@@ -5,4 +5,5 @@
     <string name="counter_hint">Sisestage maksimum (1–99)</string>
     <string name="invalid_range_message">Väärtus peab olema vahemikus 1 kuni 99</string>
     <string name="play_sounds_label">Esita helisid</string>
+    <string name="add_widget_warning">🪄 Ära unusta lisada vidinat avakuvale, et oma jooke lugeda ✨</string>
 </resources>

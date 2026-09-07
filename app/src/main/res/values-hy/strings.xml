@@ -5,4 +5,5 @@
     <string name="counter_hint">Մուտքագրեք առավելագույնը (1–99)</string>
     <string name="invalid_range_message">Արժեքը պետք է լինի 1-ից 99-ի միջև</string>
     <string name="play_sounds_label">Նվագարկել ձայներ</string>
+    <string name="add_widget_warning">🪄 Մի մոռացեք հիմնական էկրանին ավելացնել վիջեթը՝ ձեր խմիչքները հաշվելու համար ✨</string>
 </resources>

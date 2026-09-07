@@ -5,4 +5,5 @@
     <string name="counter_hint">Įveskite maksimumą (1–99)</string>
     <string name="invalid_range_message">Reikšmė turi būti tarp 1 ir 99</string>
     <string name="play_sounds_label">Groti garsus</string>
+    <string name="add_widget_warning">🪄 Nepamirškite pridėti valdiklio prie pagrindinio ekrano, kad skaičiuotumėte savo gėrimus ✨</string>
 </resources>

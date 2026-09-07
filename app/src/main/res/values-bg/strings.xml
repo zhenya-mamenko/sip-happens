@@ -5,4 +5,5 @@
     <string name="counter_hint">Въведете максимум (1–99)</string>
     <string name="invalid_range_message">Стойността трябва да бъде между 1 и 99</string>
     <string name="play_sounds_label">Възпроизвеждане на звуци</string>
+    <string name="add_widget_warning">🪄 Не забравяйте да добавите уиджета на началния екран, за да броите напитките си ✨</string>
 </resources>

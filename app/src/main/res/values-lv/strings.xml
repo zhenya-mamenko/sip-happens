@@ -5,4 +5,5 @@
     <string name="counter_hint">Ievadiet maksimumu (1–99)</string>
     <string name="invalid_range_message">Vērtībai jābūt starp 1 un 99</string>
     <string name="play_sounds_label">Atskaņot skaņas</string>
+    <string name="add_widget_warning">🪄 Neaizmirstiet pievienot logrīku sākuma ekrānam, lai skaitītu savus dzērienus ✨</string>
 </resources>
