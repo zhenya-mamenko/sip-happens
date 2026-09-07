@@ -5,4 +5,5 @@
     <string name="counter_hint">최대값 입력 (1–99)</string>
     <string name="invalid_range_message">값은 1과 99 사이여야 합니다</string>
     <string name="play_sounds_label">소리 재생</string>
+    <string name="add_widget_warning">🪄 음료 수를 기록하려면 홈 화면에 위젯을 추가하는 것을 잊지 마세요 ✨</string>
 </resources>

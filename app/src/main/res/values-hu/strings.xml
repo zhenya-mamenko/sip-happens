@@ -5,4 +5,5 @@
     <string name="counter_hint">Adja meg a maximumot (1–99)</string>
     <string name="invalid_range_message">Az értéknek 1 és 99 között kell lennie</string>
     <string name="play_sounds_label">Hangok lejátszása</string>
+    <string name="add_widget_warning">🪄 Ne felejtsd el hozzáadni a widgetet a kezdőképernyőhöz, hogy számolhasd az italaidat ✨</string>
 </resources>

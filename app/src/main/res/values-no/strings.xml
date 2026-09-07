@@ -5,4 +5,5 @@
     <string name="counter_hint">Skriv inn maksimum (1–99)</string>
     <string name="invalid_range_message">Verdien må være mellom 1 og 99</string>
     <string name="play_sounds_label">Spill av lyder</string>
+    <string name="add_widget_warning">🪄 Ikke glem å legge til widgeten på startskjermen for å telle drinkene dine ✨</string>
 </resources>

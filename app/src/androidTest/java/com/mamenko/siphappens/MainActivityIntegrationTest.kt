@@ -9,6 +9,7 @@ import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.filters.LargeTest
 import androidx.test.platform.app.InstrumentationRegistry
 import org.junit.After
+import org.junit.Assert.assertEquals
 import org.junit.Before
 import org.junit.Test
 import org.junit.runner.RunWith
@@ -46,6 +47,15 @@ class MainActivityIntegrationTest {
     @Test
     fun testCounterDisplaysInitialValue() {
         onView(withId(R.id.counterText)).check(matches(withText("0")))
+    }
+
+    @Test
+    fun testCounterTextClickIncrementsCounter() {
+        onView(withId(R.id.counterText)).perform(click())
+
+        onView(withId(R.id.counterText)).check(matches(withText("1")))
+        val context = InstrumentationRegistry.getInstrumentation().targetContext
+        assertEquals(1, PreferenceManager.getCounter(context))
     }
 
     @Test

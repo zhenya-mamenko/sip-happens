@@ -5,4 +5,5 @@
     <string name="counter_hint">Voer maksimum in (1–99)</string>
     <string name="invalid_range_message">Waarde moet tussen 1 en 99 wees</string>
     <string name="play_sounds_label">Speel klanke</string>
+    <string name="add_widget_warning">🪄 Moenie vergeet om die legstuk by die tuisskerm te voeg om jou drankies te tel nie ✨</string>
 </resources>

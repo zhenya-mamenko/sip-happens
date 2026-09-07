@@ -5,4 +5,5 @@
     <string name="counter_hint">Wprowadź maksimum (1–99)</string>
     <string name="invalid_range_message">Wartość musi być między 1 a 99</string>
     <string name="play_sounds_label">Odtwarzaj dźwięki</string>
+    <string name="add_widget_warning">🪄 Nie zapomnij dodać widżetu do ekranu głównego, aby liczyć swoje napoje ✨</string>
 </resources>

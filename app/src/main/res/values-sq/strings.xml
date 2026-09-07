@@ -5,4 +5,5 @@
     <string name="counter_hint">Fut maksimumin (1–99)</string>
     <string name="invalid_range_message">Vlera duhet të jetë midis 1 dhe 99</string>
     <string name="play_sounds_label">Luaj tinguj</string>
+    <string name="add_widget_warning">🪄 Mos harroni të shtoni miniaplikacionin në ekranin kryesor për të numëruar pijet tuaja ✨</string>
 </resources>

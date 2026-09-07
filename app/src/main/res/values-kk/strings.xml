@@ -5,4 +5,5 @@
     <string name="counter_hint">Максимумды енгізіңіз (1–99)</string>
     <string name="invalid_range_message">Мән 1 мен 99 арасында болуы керек</string>
     <string name="play_sounds_label">Дыбыстарды ойнау</string>
+    <string name="add_widget_warning">🪄 Сусындарыңызды санау үшін басты экранға виджетті қосуды ұмытпаңыз ✨</string>
 </resources>

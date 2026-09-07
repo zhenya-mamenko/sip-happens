@@ -1,8 +1,11 @@
 package com.mamenko.siphappens
 
+import android.appwidget.AppWidgetManager
+import android.content.ComponentName
 import android.os.Bundle
 import android.text.Editable
 import android.text.TextWatcher
+import android.view.View
 import android.widget.ImageView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
@@ -51,12 +54,28 @@ class MainActivity : AppCompatActivity() {
         super.onResume()
         updateCounter()
         updateCurrentImage()
+        updateWidgetWarning()
     }
 
     private fun setupUI() {
         binding.image1.setOnClickListener { selectImage(1, binding.image1) }
         binding.image2.setOnClickListener { selectImage(2, binding.image2) }
         binding.image3.setOnClickListener { selectImage(3, binding.image3) }
+        binding.counterText.setOnClickListener {
+            val currentCounter = PreferenceManager.getCounter(this) + 1
+            PreferenceManager.setCounter(this, currentCounter)
+            val maximum = PreferenceManager.getMaximum(this)
+
+            if (currentCounter >= maximum) {
+                SoundHelper.playAfterMaxSound(this)
+            } else {
+                SoundHelper.playBeforeMaxSound(this)
+            }
+
+            updateCounter()
+            updateCurrentImage()
+            SipHappensWidget.updateWidget(this)
+        }
 
         binding.maxInput.addTextChangedListener(object : TextWatcher {
             override fun beforeTextChanged(s: CharSequence?, start: Int, count: Int, after: Int) {}
@@ -149,5 +168,17 @@ class MainActivity : AppCompatActivity() {
     private fun updateCounter() {
         val counter = PreferenceManager.getCounter(this)
         binding.counterText.text = "$counter"
+    }
+
+    private fun updateWidgetWarning() {
+        val appWidgetManager = AppWidgetManager.getInstance(this)
+        val widgetComponent = ComponentName(this, SipHappensWidget::class.java)
+        binding.widgetWarning.visibility = if (
+            appWidgetManager.getAppWidgetIds(widgetComponent).isEmpty()
+        ) {
+            View.VISIBLE
+        } else {
+            View.GONE
+        }
     }
 }

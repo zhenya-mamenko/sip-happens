@@ -5,4 +5,5 @@
     <string name="counter_hint">Nhập giá trị tối đa (1–99)</string>
     <string name="invalid_range_message">Giá trị phải từ 1 đến 99</string>
     <string name="play_sounds_label">Phát âm thanh</string>
+    <string name="add_widget_warning">🪄 Đừng quên thêm tiện ích vào màn hình chính để đếm số đồ uống của bạn ✨</string>
 </resources>

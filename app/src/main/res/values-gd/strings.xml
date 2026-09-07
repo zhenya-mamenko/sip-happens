@@ -5,4 +5,5 @@
     <string name="counter_hint">Cuir a-steach as motha (1–99)</string>
     <string name="invalid_range_message">Feumaidh an luach a bhith eadar 1 agus 99</string>
     <string name="play_sounds_label">Cluich fuaimean</string>
+    <string name="add_widget_warning">🪄 Na dìochuimhnich am widget a chur ris an sgrìn-dhachaigh gus na deochan agad a chunntadh ✨</string>
 </resources>

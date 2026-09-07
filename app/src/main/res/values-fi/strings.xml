@@ -5,4 +5,5 @@
     <string name="counter_hint">Syötä maksimi (1–99)</string>
     <string name="invalid_range_message">Arvon täytyy olla välillä 1–99</string>
     <string name="play_sounds_label">Toista ääniä</string>
+    <string name="add_widget_warning">🪄 Muista lisätä pienoisohjelma aloitusnäyttöön laskeaksesi juomasi ✨</string>
 </resources>

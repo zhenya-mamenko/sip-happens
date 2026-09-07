@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.2.0
+
+- Counter can be incremented by tapping on counter value.
+- Information about widget was added on the main view.
+- Layout fixes
+
 ## 1.1.3
 
 Removed unused permission.
