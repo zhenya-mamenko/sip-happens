@@ -6,4 +6,16 @@
     <string name="invalid_range_message">數值必須在1到99之間</string>
     <string name="play_sounds_label">播放聲音</string>
     <string name="add_widget_warning">🪄 別忘了將小工具新增到主畫面，以記錄你的飲品數量 ✨</string>
+    <string name="options">選項</string>
+    <string name="sound_duration_hint">請選擇長度不超過3秒的音訊。</string>
+    <string name="sound_before_max_label">達到上限前的聲音</string>
+    <string name="sound_after_max_label">達到或超過上限時的聲音</string>
+    <string name="choose_sound">選擇聲音</string>
+    <string name="restore_default_sound">還原預設聲音</string>
+    <string name="default_sound">預設聲音</string>
+    <string name="custom_sound">自訂聲音</string>
+    <string name="sound_selection_error">無法變更聲音。請選擇可播放且不超過3秒的音訊檔案，或重試。</string>
+    <string name="sound_playback_error">無法播放聲音。請在選項中選擇其他聲音或還原預設聲音。</string>
+    <string name="expanded">已展開</string>
+    <string name="collapsed">已收合</string>
 </resources>

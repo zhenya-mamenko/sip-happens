@@ -6,4 +6,16 @@
     <string name="invalid_range_message">O valor deve estar entre 1 e 99</string>
     <string name="play_sounds_label">Reproduzir sons</string>
     <string name="add_widget_warning">🪄 Não se esqueça de adicionar o widget à tela inicial para contar suas bebidas ✨</string>
+    <string name="options">Opções</string>
+    <string name="sound_duration_hint">Escolha um áudio de até 3 segundos.</string>
+    <string name="sound_before_max_label">Som antes do máximo</string>
+    <string name="sound_after_max_label">Som ao atingir ou ultrapassar o máximo</string>
+    <string name="choose_sound">Escolher som</string>
+    <string name="restore_default_sound">Restaurar som padrão</string>
+    <string name="default_sound">Som padrão</string>
+    <string name="custom_sound">Som personalizado</string>
+    <string name="sound_selection_error">Não foi possível alterar o som. Escolha um arquivo de áudio reproduzível de até 3 segundos ou tente novamente.</string>
+    <string name="sound_playback_error">Não foi possível reproduzir o som. Escolha outro ou restaure o padrão nas opções.</string>
+    <string name="expanded">Expandido</string>
+    <string name="collapsed">Recolhido</string>
 </resources>

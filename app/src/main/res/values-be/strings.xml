@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Значэнне павінна быць паміж 1 і 99</string>
     <string name="play_sounds_label">Граць гукі</string>
     <string name="add_widget_warning">🪄 Не забудзьце дадаць віджэт на галоўны экран, каб падлічваць свае напоі ✨</string>
+    <string name="options">Налады</string>
+    <string name="sound_duration_hint">Выберыце аўдыя працягласцю да 3 секунд.</string>
+    <string name="sound_before_max_label">Гук да дасягнення максімуму</string>
+    <string name="sound_after_max_label">Гук пры дасягненні або перавышэнні максімуму</string>
+    <string name="choose_sound">Выбраць гук</string>
+    <string name="restore_default_sound">Аднавіць стандартны гук</string>
+    <string name="default_sound">Стандартны гук</string>
+    <string name="custom_sound">Уласны гук</string>
+    <string name="sound_selection_error">Не ўдалося змяніць гук. Выберыце прыдатны для прайгравання аўдыяфайл да 3 секунд або паспрабуйце зноў.</string>
+    <string name="sound_playback_error">Не ўдалося прайграць гук. Выберыце іншы або аднавіце стандартны ў наладах.</string>
+    <string name="expanded">Разгорнута</string>
+    <string name="collapsed">Згорнута</string>
 </resources>

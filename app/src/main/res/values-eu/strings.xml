@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Balioa 1 eta 99 artean egon behar da</string>
     <string name="play_sounds_label">Erreproduzitu soinuak</string>
     <string name="add_widget_warning">🪄 Ez ahaztu widgeta hasierako pantailan gehitzea zure edariak zenbatzeko ✨</string>
+    <string name="options">Aukerak</string>
+    <string name="sound_duration_hint">Aukeratu gehienez 3 segundoko audioa.</string>
+    <string name="sound_before_max_label">Soinua gehienekora iritsi aurretik</string>
+    <string name="sound_after_max_label">Soinua gehienekora iristean edo gainditzean</string>
+    <string name="choose_sound">Aukeratu soinua</string>
+    <string name="restore_default_sound">Berrezarri soinu lehenetsia</string>
+    <string name="default_sound">Soinu lehenetsia</string>
+    <string name="custom_sound">Soinu pertsonalizatua</string>
+    <string name="sound_selection_error">Ezin izan da soinua aldatu. Aukeratu erreproduzi daitekeen gehienez 3 segundoko audio-fitxategia edo saiatu berriro.</string>
+    <string name="sound_playback_error">Ezin izan da soinua erreproduzitu. Aukeratu beste bat edo berrezarri lehenetsia Aukerak atalean.</string>
+    <string name="expanded">Zabalduta</string>
+    <string name="collapsed">Tolestuta</string>
 </resources>

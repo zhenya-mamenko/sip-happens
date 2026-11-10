@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Gildið verður að vera á milli 1 og 99</string>
     <string name="play_sounds_label">Spila hljóð</string>
     <string name="add_widget_warning">🪄 Ekki gleyma að bæta græjunni við heimaskjáinn til að telja drykkina þína ✨</string>
+    <string name="options">Valkostir</string>
+    <string name="sound_duration_hint">Veldu hljóð sem er að hámarki 3 sekúndur.</string>
+    <string name="sound_before_max_label">Hljóð áður en hámarki er náð</string>
+    <string name="sound_after_max_label">Hljóð þegar hámarki er náð eða farið yfir það</string>
+    <string name="choose_sound">Velja hljóð</string>
+    <string name="restore_default_sound">Endurheimta sjálfgefið hljóð</string>
+    <string name="default_sound">Sjálfgefið hljóð</string>
+    <string name="custom_sound">Sérsniðið hljóð</string>
+    <string name="sound_selection_error">Ekki tókst að breyta hljóðinu. Veldu spilanlega hljóðskrá að hámarki 3 sekúndur eða reyndu aftur.</string>
+    <string name="sound_playback_error">Ekki tókst að spila hljóðið. Veldu annað eða endurheimtu sjálfgefið hljóð í valkostum.</string>
+    <string name="expanded">Útvíkkað</string>
+    <string name="collapsed">Fellt saman</string>
 </resources>

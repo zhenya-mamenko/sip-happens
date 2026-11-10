@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Мән 1 мен 99 арасында болуы керек</string>
     <string name="play_sounds_label">Дыбыстарды ойнау</string>
     <string name="add_widget_warning">🪄 Сусындарыңызды санау үшін басты экранға виджетті қосуды ұмытпаңыз ✨</string>
+    <string name="options">Параметрлер</string>
+    <string name="sound_duration_hint">Ұзақтығы 3 секундтан аспайтын аудионы таңдаңыз.</string>
+    <string name="sound_before_max_label">Максимумға жеткенге дейінгі дыбыс</string>
+    <string name="sound_after_max_label">Максимумға жеткендегі немесе одан асқандағы дыбыс</string>
+    <string name="choose_sound">Дыбысты таңдау</string>
+    <string name="restore_default_sound">Әдепкі дыбысты қалпына келтіру</string>
+    <string name="default_sound">Әдепкі дыбыс</string>
+    <string name="custom_sound">Таңдалған дыбыс</string>
+    <string name="sound_selection_error">Дыбысты өзгерту мүмкін болмады. Ойнатылатын, ұзақтығы 3 секундтан аспайтын аудиофайлды таңдаңыз немесе қайталап көріңіз.</string>
+    <string name="sound_playback_error">Дыбысты ойнату мүмкін болмады. Параметрлерден басқа дыбысты таңдаңыз немесе әдепкі дыбысты қалпына келтіріңіз.</string>
+    <string name="expanded">Жайылған</string>
+    <string name="collapsed">Жиылған</string>
 </resources>

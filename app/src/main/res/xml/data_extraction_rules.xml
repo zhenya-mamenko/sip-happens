@@ -2,8 +2,12 @@
 <data-extraction-rules>
     <cloud-backup>
         <include domain="sharedpref" path="." />
+        <include domain="file" path="custom_sounds/before_max" />
+        <include domain="file" path="custom_sounds/after_max" />
     </cloud-backup>
     <device-transfer>
         <include domain="sharedpref" path="." />
+        <include domain="file" path="custom_sounds/before_max" />
+        <include domain="file" path="custom_sounds/after_max" />
     </device-transfer>
 </data-extraction-rules>

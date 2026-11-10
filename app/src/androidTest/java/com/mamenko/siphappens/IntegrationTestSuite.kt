@@ -5,6 +5,7 @@ import org.junit.runners.Suite
 
 @Suite.SuiteClasses(
     MainActivityIntegrationTest::class,
-    SipHappensWidgetTest::class
+    SipHappensWidgetTest::class,
+    CustomSoundIntegrationTest::class
 )
 class IntegrationTestSuite

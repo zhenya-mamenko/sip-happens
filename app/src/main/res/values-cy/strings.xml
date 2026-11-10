@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Rhaid i\'r gwerth fod rhwng 1 a 99</string>
     <string name="play_sounds_label">Chwarae synau</string>
     <string name="add_widget_warning">🪄 Peidiwch ag anghofio ychwanegu\'r teclyn i\'r sgrin gartref i gyfrif eich diodydd ✨</string>
+    <string name="options">Dewisiadau</string>
+    <string name="sound_duration_hint">Dewiswch sain hyd at 3 eiliad o hyd.</string>
+    <string name="sound_before_max_label">Sain cyn yr uchafswm</string>
+    <string name="sound_after_max_label">Sain wrth gyrraedd neu fynd dros yr uchafswm</string>
+    <string name="choose_sound">Dewis sain</string>
+    <string name="restore_default_sound">Adfer y sain ddiofyn</string>
+    <string name="default_sound">Sain ddiofyn</string>
+    <string name="custom_sound">Sain bersonol</string>
+    <string name="sound_selection_error">Methu newid y sain. Dewiswch ffeil sain y gellir ei chwarae hyd at 3 eiliad neu rhowch gynnig arall arni.</string>
+    <string name="sound_playback_error">Methu chwarae’r sain. Dewiswch sain arall neu adferwch y sain ddiofyn yn Dewisiadau.</string>
+    <string name="expanded">Wedi ehangu</string>
+    <string name="collapsed">Wedi crebachu</string>
 </resources>

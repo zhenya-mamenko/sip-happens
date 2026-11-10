@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Vērtībai jābūt starp 1 un 99</string>
     <string name="play_sounds_label">Atskaņot skaņas</string>
     <string name="add_widget_warning">🪄 Neaizmirstiet pievienot logrīku sākuma ekrānam, lai skaitītu savus dzērienus ✨</string>
+    <string name="options">Opcijas</string>
+    <string name="sound_duration_hint">Izvēlieties audio līdz 3 sekundēm.</string>
+    <string name="sound_before_max_label">Skaņa pirms maksimuma sasniegšanas</string>
+    <string name="sound_after_max_label">Skaņa, sasniedzot vai pārsniedzot maksimumu</string>
+    <string name="choose_sound">Izvēlēties skaņu</string>
+    <string name="restore_default_sound">Atjaunot noklusējuma skaņu</string>
+    <string name="default_sound">Noklusējuma skaņa</string>
+    <string name="custom_sound">Pielāgota skaņa</string>
+    <string name="sound_selection_error">Neizdevās mainīt skaņu. Izvēlieties atskaņojamu audio failu līdz 3 sekundēm vai mēģiniet vēlreiz.</string>
+    <string name="sound_playback_error">Neizdevās atskaņot skaņu. Izvēlieties citu vai atjaunojiet noklusējuma skaņu opcijās.</string>
+    <string name="expanded">Izvērsts</string>
+    <string name="collapsed">Sakļauts</string>
 </resources>

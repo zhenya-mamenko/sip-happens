@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Giá trị phải từ 1 đến 99</string>
     <string name="play_sounds_label">Phát âm thanh</string>
     <string name="add_widget_warning">🪄 Đừng quên thêm tiện ích vào màn hình chính để đếm số đồ uống của bạn ✨</string>
+    <string name="options">Tùy chọn</string>
+    <string name="sound_duration_hint">Chọn âm thanh dài tối đa 3 giây.</string>
+    <string name="sound_before_max_label">Âm thanh trước khi đạt mức tối đa</string>
+    <string name="sound_after_max_label">Âm thanh khi đạt hoặc vượt mức tối đa</string>
+    <string name="choose_sound">Chọn âm thanh</string>
+    <string name="restore_default_sound">Khôi phục âm thanh mặc định</string>
+    <string name="default_sound">Âm thanh mặc định</string>
+    <string name="custom_sound">Âm thanh tùy chỉnh</string>
+    <string name="sound_selection_error">Không thể đổi âm thanh. Hãy chọn tệp âm thanh có thể phát dài tối đa 3 giây hoặc thử lại.</string>
+    <string name="sound_playback_error">Không thể phát âm thanh. Hãy chọn âm thanh khác hoặc khôi phục mặc định trong Tùy chọn.</string>
+    <string name="expanded">Đã mở rộng</string>
+    <string name="collapsed">Đã thu gọn</string>
 </resources>

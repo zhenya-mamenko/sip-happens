@@ -6,4 +6,16 @@
     <string name="invalid_range_message">값은 1과 99 사이여야 합니다</string>
     <string name="play_sounds_label">소리 재생</string>
     <string name="add_widget_warning">🪄 음료 수를 기록하려면 홈 화면에 위젯을 추가하는 것을 잊지 마세요 ✨</string>
+    <string name="options">옵션</string>
+    <string name="sound_duration_hint">3초 이하의 오디오를 선택하세요.</string>
+    <string name="sound_before_max_label">최댓값 도달 전 소리</string>
+    <string name="sound_after_max_label">최댓값 도달 또는 초과 시 소리</string>
+    <string name="choose_sound">소리 선택</string>
+    <string name="restore_default_sound">기본 소리로 복원</string>
+    <string name="default_sound">기본 소리</string>
+    <string name="custom_sound">사용자 지정 소리</string>
+    <string name="sound_selection_error">소리를 변경하지 못했습니다. 재생 가능한 3초 이하의 오디오 파일을 선택하거나 다시 시도하세요.</string>
+    <string name="sound_playback_error">소리를 재생하지 못했습니다. 옵션에서 다른 소리를 선택하거나 기본 소리로 복원하세요.</string>
+    <string name="expanded">펼쳐짐</string>
+    <string name="collapsed">접힘</string>
 </resources>

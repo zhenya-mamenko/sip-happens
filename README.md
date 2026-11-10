@@ -17,6 +17,8 @@ That's why I made this Android widget: to help you avoid repeating those "oops" 
 - **Tap to sip**: Click the widget every time you take a drink — no judgment here.
 - **Watch your glass fill up**: Visual feedback so you know when to slow down.
 - **Get notified**: If you lose track, the app will let you know (with sounds you can’t ignore — but you can disable them, of course).
+- **Customize sounds**: Expand **Options** to choose separate audio files before and at/above your maximum (up to 3 seconds each). Sounds are saved in the app and also used by the widget. Restore either default sound independently.
+- **Scroll on smaller screens**: The settings screen scrolls when its content does not fit.
 - **Reset the counter**: Ready for the next party? Just reset and start fresh!
 - **Dark theme support**: Prefer things a little moodier? The settings screen will follow your device’s theme — if your phone is in dark mode, so is your settings.
 
@@ -35,7 +37,7 @@ Sometimes, a little help goes a long way in keeping your glass half full (and no
 
 1. Clone this repo.
 2. Build and install the app on your Android device.
-3. Or just download the APK file from [Releases](https://github.com/zhenya-mamenko/sip-happens/releases) page.
+3. Or just download the APK file from [Releases](https://github.com/zhenya-mamenko/sip-happens/releases) page or [Google Play Store](https://play.google.com/store/apps/details?id=com.mamenko.siphappens).
 4. Add the widget to your home screen.
 5. Sip responsibly!
 

@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Wert muss zwischen 1 und 99 liegen</string>
     <string name="play_sounds_label">Töne abspielen</string>
     <string name="add_widget_warning">🪄 Vergiss nicht, das Widget zum Startbildschirm hinzuzufügen, um deine Getränke zu zählen ✨</string>
+    <string name="options">Optionen</string>
+    <string name="sound_duration_hint">Audio mit einer Länge von bis zu 3 Sekunden wählen.</string>
+    <string name="sound_before_max_label">Ton vor dem Maximum</string>
+    <string name="sound_after_max_label">Ton ab Erreichen des Maximums</string>
+    <string name="choose_sound">Ton wählen</string>
+    <string name="restore_default_sound">Standardton wiederherstellen</string>
+    <string name="default_sound">Standardton</string>
+    <string name="custom_sound">Eigener Ton</string>
+    <string name="sound_selection_error">Ton konnte nicht geändert werden. Eine abspielbare Audiodatei mit höchstens 3 Sekunden wählen oder erneut versuchen.</string>
+    <string name="sound_playback_error">Ton konnte nicht abgespielt werden. In den Optionen einen anderen Ton wählen oder den Standard wiederherstellen.</string>
+    <string name="expanded">Ausgeklappt</string>
+    <string name="collapsed">Eingeklappt</string>
 </resources>

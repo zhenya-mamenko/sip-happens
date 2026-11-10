@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Значение должно быть от 1 до 99</string>
     <string name="play_sounds_label">Проигрывать звуки</string>
     <string name="add_widget_warning">🪄 Не забудьте добавить виджет на главный экран, чтобы считать напитки ✨</string>
+    <string name="options">Настройки</string>
+    <string name="sound_duration_hint">Выберите аудио длительностью до 3 секунд.</string>
+    <string name="sound_before_max_label">Звук до достижения максимума</string>
+    <string name="sound_after_max_label">Звук при достижении или превышении максимума</string>
+    <string name="choose_sound">Выбрать звук</string>
+    <string name="restore_default_sound">Вернуть стандартный звук</string>
+    <string name="default_sound">Стандартный звук</string>
+    <string name="custom_sound">Свой звук</string>
+    <string name="sound_selection_error">Не удалось изменить звук. Выберите воспроизводимый аудиофайл не длиннее 3 секунд или повторите попытку.</string>
+    <string name="sound_playback_error">Не удалось воспроизвести звук. Выберите другой или верните стандартный в настройках.</string>
+    <string name="expanded">Развёрнуто</string>
+    <string name="collapsed">Свёрнуто</string>
 </resources>

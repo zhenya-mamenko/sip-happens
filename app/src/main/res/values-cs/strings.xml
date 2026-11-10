@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Hodnota musí být mezi 1 a 99</string>
     <string name="play_sounds_label">Přehrát zvuky</string>
     <string name="add_widget_warning">🪄 Nezapomeňte přidat widget na domovskou obrazovku, abyste mohli počítat své nápoje ✨</string>
+    <string name="options">Možnosti</string>
+    <string name="sound_duration_hint">Vyberte zvuk dlouhý nejvýše 3 sekundy.</string>
+    <string name="sound_before_max_label">Zvuk před dosažením maxima</string>
+    <string name="sound_after_max_label">Zvuk při dosažení nebo překročení maxima</string>
+    <string name="choose_sound">Vybrat zvuk</string>
+    <string name="restore_default_sound">Obnovit výchozí zvuk</string>
+    <string name="default_sound">Výchozí zvuk</string>
+    <string name="custom_sound">Vlastní zvuk</string>
+    <string name="sound_selection_error">Zvuk nelze změnit. Vyberte přehratelný zvukový soubor dlouhý nejvýše 3 sekundy nebo to zkuste znovu.</string>
+    <string name="sound_playback_error">Zvuk nelze přehrát. Vyberte jiný nebo obnovte výchozí v možnostech.</string>
+    <string name="expanded">Rozbaleno</string>
+    <string name="collapsed">Sbaleno</string>
 </resources>

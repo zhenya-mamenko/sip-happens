@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Valoarea trebuie să fie între 1 și 99</string>
     <string name="play_sounds_label">Redare sunete</string>
     <string name="add_widget_warning">🪄 Nu uita să adaugi widgetul pe ecranul principal pentru a-ți număra băuturile ✨</string>
+    <string name="options">Opțiuni</string>
+    <string name="sound_duration_hint">Alege un sunet de cel mult 3 secunde.</string>
+    <string name="sound_before_max_label">Sunet înainte de maxim</string>
+    <string name="sound_after_max_label">Sunet la atingerea sau depășirea maximului</string>
+    <string name="choose_sound">Alege sunetul</string>
+    <string name="restore_default_sound">Restabilește sunetul implicit</string>
+    <string name="default_sound">Sunet implicit</string>
+    <string name="custom_sound">Sunet personalizat</string>
+    <string name="sound_selection_error">Sunetul nu a putut fi schimbat. Alege un fișier audio redabil de cel mult 3 secunde sau încearcă din nou.</string>
+    <string name="sound_playback_error">Sunetul nu a putut fi redat. Alege altul sau restabilește sunetul implicit din Opțiuni.</string>
+    <string name="expanded">Extins</string>
+    <string name="collapsed">Restrâns</string>
 </resources>

@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Reikšmė turi būti tarp 1 ir 99</string>
     <string name="play_sounds_label">Groti garsus</string>
     <string name="add_widget_warning">🪄 Nepamirškite pridėti valdiklio prie pagrindinio ekrano, kad skaičiuotumėte savo gėrimus ✨</string>
+    <string name="options">Parinktys</string>
+    <string name="sound_duration_hint">Pasirinkite iki 3 sekundžių trukmės garsą.</string>
+    <string name="sound_before_max_label">Garsas prieš pasiekiant maksimumą</string>
+    <string name="sound_after_max_label">Garsas pasiekus arba viršijus maksimumą</string>
+    <string name="choose_sound">Pasirinkti garsą</string>
+    <string name="restore_default_sound">Atkurti numatytąjį garsą</string>
+    <string name="default_sound">Numatytasis garsas</string>
+    <string name="custom_sound">Pasirinktinis garsas</string>
+    <string name="sound_selection_error">Nepavyko pakeisti garso. Pasirinkite atkuriamą iki 3 sekundžių garso failą arba bandykite dar kartą.</string>
+    <string name="sound_playback_error">Nepavyko atkurti garso. Pasirinkite kitą arba atkurkite numatytąjį parinktyse.</string>
+    <string name="expanded">Išskleista</string>
+    <string name="collapsed">Suskleista</string>
 </resources>

@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Vrednost mora biti med 1 in 99</string>
     <string name="play_sounds_label">Predvajaj zvoke</string>
     <string name="add_widget_warning">🪄 Ne pozabite dodati gradnika na začetni zaslon, da boste lahko šteli svoje pijače ✨</string>
+    <string name="options">Možnosti</string>
+    <string name="sound_duration_hint">Izberite zvok, dolg največ 3 sekunde.</string>
+    <string name="sound_before_max_label">Zvok pred doseženim maksimumom</string>
+    <string name="sound_after_max_label">Zvok ob doseženem ali preseženem maksimumu</string>
+    <string name="choose_sound">Izberi zvok</string>
+    <string name="restore_default_sound">Obnovi privzeti zvok</string>
+    <string name="default_sound">Privzeti zvok</string>
+    <string name="custom_sound">Zvok po meri</string>
+    <string name="sound_selection_error">Zvoka ni mogoče spremeniti. Izberite zvočno datoteko, ki jo je mogoče predvajati in je dolga največ 3 sekunde, ali poskusite znova.</string>
+    <string name="sound_playback_error">Zvoka ni mogoče predvajati. Izberite drugega ali obnovite privzetega v možnostih.</string>
+    <string name="expanded">Razširjeno</string>
+    <string name="collapsed">Strnjeno</string>
 </resources>
