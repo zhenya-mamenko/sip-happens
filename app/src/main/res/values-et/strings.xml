@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Väärtus peab olema vahemikus 1 kuni 99</string>
     <string name="play_sounds_label">Esita helisid</string>
     <string name="add_widget_warning">🪄 Ära unusta lisada vidinat avakuvale, et oma jooke lugeda ✨</string>
+    <string name="options">Valikud</string>
+    <string name="sound_duration_hint">Vali kuni 3 sekundi pikkune heli.</string>
+    <string name="sound_before_max_label">Heli enne ülempiiri</string>
+    <string name="sound_after_max_label">Heli ülempiiri saavutamisel või ületamisel</string>
+    <string name="choose_sound">Vali heli</string>
+    <string name="restore_default_sound">Taasta vaikeheli</string>
+    <string name="default_sound">Vaikeheli</string>
+    <string name="custom_sound">Kohandatud heli</string>
+    <string name="sound_selection_error">Heli muutmine ebaõnnestus. Vali esitatav kuni 3 sekundi pikkune helifail või proovi uuesti.</string>
+    <string name="sound_playback_error">Heli esitamine ebaõnnestus. Vali teine heli või taasta vaikeheli valikutes.</string>
+    <string name="expanded">Laiendatud</string>
+    <string name="collapsed">Ahendatud</string>
 </resources>

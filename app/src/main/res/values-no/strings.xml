@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Verdien må være mellom 1 og 99</string>
     <string name="play_sounds_label">Spill av lyder</string>
     <string name="add_widget_warning">🪄 Ikke glem å legge til widgeten på startskjermen for å telle drinkene dine ✨</string>
+    <string name="options">Alternativer</string>
+    <string name="sound_duration_hint">Velg lyd på opptil 3 sekunder.</string>
+    <string name="sound_before_max_label">Lyd før maksimum</string>
+    <string name="sound_after_max_label">Lyd ved eller over maksimum</string>
+    <string name="choose_sound">Velg lyd</string>
+    <string name="restore_default_sound">Gjenopprett standardlyd</string>
+    <string name="default_sound">Standardlyd</string>
+    <string name="custom_sound">Egen lyd</string>
+    <string name="sound_selection_error">Kunne ikke endre lyden. Velg en avspillbar lydfil på opptil 3 sekunder, eller prøv igjen.</string>
+    <string name="sound_playback_error">Kunne ikke spille av lyden. Velg en annen eller gjenopprett standardlyden under Alternativer.</string>
+    <string name="expanded">Utvidet</string>
+    <string name="collapsed">Slått sammen</string>
 </resources>

@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Стойността трябва да бъде между 1 и 99</string>
     <string name="play_sounds_label">Възпроизвеждане на звуци</string>
     <string name="add_widget_warning">🪄 Не забравяйте да добавите уиджета на началния екран, за да броите напитките си ✨</string>
+    <string name="options">Опции</string>
+    <string name="sound_duration_hint">Изберете аудио с дължина до 3 секунди.</string>
+    <string name="sound_before_max_label">Звук преди достигане на максимума</string>
+    <string name="sound_after_max_label">Звук при достигане или надвишаване на максимума</string>
+    <string name="choose_sound">Избор на звук</string>
+    <string name="restore_default_sound">Възстановяване на стандартния звук</string>
+    <string name="default_sound">Стандартен звук</string>
+    <string name="custom_sound">Персонализиран звук</string>
+    <string name="sound_selection_error">Звукът не може да бъде променен. Изберете възпроизводим аудиофайл до 3 секунди или опитайте отново.</string>
+    <string name="sound_playback_error">Звукът не може да бъде възпроизведен. Изберете друг или възстановете стандартния в опциите.</string>
+    <string name="expanded">Разгънато</string>
+    <string name="collapsed">Свито</string>
 </resources>

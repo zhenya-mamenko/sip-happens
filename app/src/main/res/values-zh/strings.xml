@@ -6,4 +6,16 @@
     <string name="invalid_range_message">数值必须在1到99之间</string>
     <string name="play_sounds_label">播放声音</string>
     <string name="add_widget_warning">🪄 别忘了将小组件添加到主屏幕，以记录你的饮品数量 ✨</string>
+    <string name="options">选项</string>
+    <string name="sound_duration_hint">请选择时长不超过3秒的音频。</string>
+    <string name="sound_before_max_label">达到上限前的声音</string>
+    <string name="sound_after_max_label">达到或超过上限时的声音</string>
+    <string name="choose_sound">选择声音</string>
+    <string name="restore_default_sound">恢复默认声音</string>
+    <string name="default_sound">默认声音</string>
+    <string name="custom_sound">自定义声音</string>
+    <string name="sound_selection_error">无法更改声音。请选择可播放且不超过3秒的音频文件，或重试。</string>
+    <string name="sound_playback_error">无法播放声音。请在选项中选择其他声音或恢复默认声音。</string>
+    <string name="expanded">已展开</string>
+    <string name="collapsed">已折叠</string>
 </resources>

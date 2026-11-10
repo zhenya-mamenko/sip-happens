@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Value must be between 1 and 99</string>
     <string name="play_sounds_label">Play sounds</string>
     <string name="add_widget_warning">🪄 Don\'t forget to add the widget to your home screen to count your drinks ✨</string>
+    <string name="options">Options</string>
+    <string name="sound_duration_hint">Choose audio up to 3 seconds long.</string>
+    <string name="sound_before_max_label">Sound before the maximum</string>
+    <string name="sound_after_max_label">Sound at or above the maximum</string>
+    <string name="choose_sound">Choose sound</string>
+    <string name="restore_default_sound">Restore default sound</string>
+    <string name="default_sound">Default sound</string>
+    <string name="custom_sound">Custom sound</string>
+    <string name="sound_selection_error">Could not change the sound. Choose a playable audio file no longer than 3 seconds, or try again.</string>
+    <string name="sound_playback_error">Could not play the sound. Choose another sound or restore the default in Options.</string>
+    <string name="expanded">Expanded</string>
+    <string name="collapsed">Collapsed</string>
 </resources>

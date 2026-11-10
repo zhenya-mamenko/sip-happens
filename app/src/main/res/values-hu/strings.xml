@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Az értéknek 1 és 99 között kell lennie</string>
     <string name="play_sounds_label">Hangok lejátszása</string>
     <string name="add_widget_warning">🪄 Ne felejtsd el hozzáadni a widgetet a kezdőképernyőhöz, hogy számolhasd az italaidat ✨</string>
+    <string name="options">Beállítások</string>
+    <string name="sound_duration_hint">Válassz legfeljebb 3 másodperces hangot.</string>
+    <string name="sound_before_max_label">Hang a maximum elérése előtt</string>
+    <string name="sound_after_max_label">Hang a maximum elérésekor vagy túllépésekor</string>
+    <string name="choose_sound">Hang kiválasztása</string>
+    <string name="restore_default_sound">Alapértelmezett hang visszaállítása</string>
+    <string name="default_sound">Alapértelmezett hang</string>
+    <string name="custom_sound">Egyéni hang</string>
+    <string name="sound_selection_error">Nem sikerült módosítani a hangot. Válassz lejátszható, legfeljebb 3 másodperces hangfájlt, vagy próbáld újra.</string>
+    <string name="sound_playback_error">Nem sikerült lejátszani a hangot. Válassz másikat, vagy állítsd vissza az alapértelmezettet a beállításokban.</string>
+    <string name="expanded">Kibontva</string>
+    <string name="collapsed">Összecsukva</string>
 </resources>

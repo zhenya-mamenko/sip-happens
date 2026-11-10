@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Արժեքը պետք է լինի 1-ից 99-ի միջև</string>
     <string name="play_sounds_label">Նվագարկել ձայներ</string>
     <string name="add_widget_warning">🪄 Մի մոռացեք հիմնական էկրանին ավելացնել վիջեթը՝ ձեր խմիչքները հաշվելու համար ✨</string>
+    <string name="options">Կարգավորումներ</string>
+    <string name="sound_duration_hint">Ընտրեք մինչև 3 վայրկյան տևողությամբ ձայն։</string>
+    <string name="sound_before_max_label">Ձայնը մինչև առավելագույնին հասնելը</string>
+    <string name="sound_after_max_label">Ձայնը առավելագույնին հասնելիս կամ այն գերազանցելիս</string>
+    <string name="choose_sound">Ընտրել ձայնը</string>
+    <string name="restore_default_sound">Վերականգնել կանխադրված ձայնը</string>
+    <string name="default_sound">Կանխադրված ձայն</string>
+    <string name="custom_sound">Անհատական ձայն</string>
+    <string name="sound_selection_error">Չհաջողվեց փոխել ձայնը։ Ընտրեք նվագարկվող ձայնային ֆայլ՝ մինչև 3 վայրկյան տևողությամբ, կամ կրկին փորձեք։</string>
+    <string name="sound_playback_error">Չհաջողվեց նվագարկել ձայնը։ Կարգավորումներում ընտրեք այլ ձայն կամ վերականգնեք կանխադրվածը։</string>
+    <string name="expanded">Ընդլայնված</string>
+    <string name="collapsed">Ծալված</string>
 </resources>

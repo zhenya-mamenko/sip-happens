@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Waarde moet tussen 1 en 99 zijn</string>
     <string name="play_sounds_label">Geluiden afspelen</string>
     <string name="add_widget_warning">🪄 Vergeet niet de widget aan het startscherm toe te voegen om je drankjes te tellen ✨</string>
+    <string name="options">Opties</string>
+    <string name="sound_duration_hint">Kies audio van maximaal 3 seconden.</string>
+    <string name="sound_before_max_label">Geluid vóór het maximum</string>
+    <string name="sound_after_max_label">Geluid bij of boven het maximum</string>
+    <string name="choose_sound">Geluid kiezen</string>
+    <string name="restore_default_sound">Standaardgeluid herstellen</string>
+    <string name="default_sound">Standaardgeluid</string>
+    <string name="custom_sound">Eigen geluid</string>
+    <string name="sound_selection_error">Het geluid kon niet worden gewijzigd. Kies een afspeelbaar audiobestand van maximaal 3 seconden of probeer opnieuw.</string>
+    <string name="sound_playback_error">Het geluid kon niet worden afgespeeld. Kies een ander geluid of herstel het standaardgeluid in Opties.</string>
+    <string name="expanded">Uitgevouwen</string>
+    <string name="collapsed">Ingevouwen</string>
 </resources>

@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Вредност мора бити између 1 и 99</string>
     <string name="play_sounds_label">Пусти звукове</string>
     <string name="add_widget_warning">🪄 Не заборавите да додате виџет на почетни екран да бисте бројали своја пића ✨</string>
+    <string name="options">Опције</string>
+    <string name="sound_duration_hint">Изаберите звук у трајању до 3 секунде.</string>
+    <string name="sound_before_max_label">Звук пре достизања максимума</string>
+    <string name="sound_after_max_label">Звук при достизању или прекорачењу максимума</string>
+    <string name="choose_sound">Изабери звук</string>
+    <string name="restore_default_sound">Врати подразумевани звук</string>
+    <string name="default_sound">Подразумевани звук</string>
+    <string name="custom_sound">Прилагођени звук</string>
+    <string name="sound_selection_error">Није могуће променити звук. Изаберите аудио-датотеку која може да се репродукује до 3 секунде или покушајте поново.</string>
+    <string name="sound_playback_error">Није могуће репродуковати звук. Изаберите други или вратите подразумевани у опцијама.</string>
+    <string name="expanded">Проширено</string>
+    <string name="collapsed">Скупљено</string>
 </resources>

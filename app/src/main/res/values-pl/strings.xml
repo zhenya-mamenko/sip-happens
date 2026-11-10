@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Wartość musi być między 1 a 99</string>
     <string name="play_sounds_label">Odtwarzaj dźwięki</string>
     <string name="add_widget_warning">🪄 Nie zapomnij dodać widżetu do ekranu głównego, aby liczyć swoje napoje ✨</string>
+    <string name="options">Opcje</string>
+    <string name="sound_duration_hint">Wybierz dźwięk o długości do 3 sekund.</string>
+    <string name="sound_before_max_label">Dźwięk przed osiągnięciem maksimum</string>
+    <string name="sound_after_max_label">Dźwięk po osiągnięciu lub przekroczeniu maksimum</string>
+    <string name="choose_sound">Wybierz dźwięk</string>
+    <string name="restore_default_sound">Przywróć domyślny dźwięk</string>
+    <string name="default_sound">Domyślny dźwięk</string>
+    <string name="custom_sound">Własny dźwięk</string>
+    <string name="sound_selection_error">Nie można zmienić dźwięku. Wybierz odtwarzalny plik audio o długości do 3 sekund lub spróbuj ponownie.</string>
+    <string name="sound_playback_error">Nie można odtworzyć dźwięku. Wybierz inny lub przywróć domyślny w opcjach.</string>
+    <string name="expanded">Rozwinięte</string>
+    <string name="collapsed">Zwinięte</string>
 </resources>

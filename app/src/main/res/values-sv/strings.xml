@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Värdet måste vara mellan 1 och 99</string>
     <string name="play_sounds_label">Spela upp ljud</string>
     <string name="add_widget_warning">🪄 Glöm inte att lägga till widgeten på startskärmen för att räkna dina drinkar ✨</string>
+    <string name="options">Alternativ</string>
+    <string name="sound_duration_hint">Välj ljud som är högst 3 sekunder långt.</string>
+    <string name="sound_before_max_label">Ljud före maxgränsen</string>
+    <string name="sound_after_max_label">Ljud vid eller över maxgränsen</string>
+    <string name="choose_sound">Välj ljud</string>
+    <string name="restore_default_sound">Återställ standardljud</string>
+    <string name="default_sound">Standardljud</string>
+    <string name="custom_sound">Eget ljud</string>
+    <string name="sound_selection_error">Det gick inte att ändra ljudet. Välj en spelbar ljudfil på högst 3 sekunder eller försök igen.</string>
+    <string name="sound_playback_error">Det gick inte att spela ljudet. Välj ett annat eller återställ standardljudet under Alternativ.</string>
+    <string name="expanded">Utfällt</string>
+    <string name="collapsed">Hopfällt</string>
 </resources>

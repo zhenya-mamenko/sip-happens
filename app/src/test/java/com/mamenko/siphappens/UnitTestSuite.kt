@@ -6,6 +6,8 @@ import org.junit.runners.Suite
 @RunWith(Suite::class)
 @Suite.SuiteClasses(
     ImageHelperTest::class,
-    PreferenceManagerTest::class
+    PreferenceManagerTest::class,
+    CustomSoundStoreTest::class,
+    SoundHelperTest::class
 )
 class UnitTestSuite

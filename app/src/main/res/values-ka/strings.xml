@@ -6,4 +6,16 @@
     <string name="invalid_range_message">მნიშვნელობა უნდა იყოს 1-დან 99-მდე</string>
     <string name="play_sounds_label">ხმების დაკვრა</string>
     <string name="add_widget_warning">🪄 არ დაგავიწყდეთ მთავარ ეკრანზე ვიჯეტის დამატება, რათა თქვენი სასმელები დათვალოთ ✨</string>
+    <string name="options">პარამეტრები</string>
+    <string name="sound_duration_hint">აირჩიეთ მაქსიმუმ 3 წამის აუდიო.</string>
+    <string name="sound_before_max_label">ხმა მაქსიმუმის მიღწევამდე</string>
+    <string name="sound_after_max_label">ხმა მაქსიმუმის მიღწევისას ან გადაჭარბებისას</string>
+    <string name="choose_sound">ხმის არჩევა</string>
+    <string name="restore_default_sound">ნაგულისხმევი ხმის აღდგენა</string>
+    <string name="default_sound">ნაგულისხმევი ხმა</string>
+    <string name="custom_sound">მორგებული ხმა</string>
+    <string name="sound_selection_error">ხმის შეცვლა ვერ მოხერხდა. აირჩიეთ დაკვრადი აუდიოფაილი მაქსიმუმ 3 წამის ხანგრძლივობით ან სცადეთ ხელახლა.</string>
+    <string name="sound_playback_error">ხმის დაკვრა ვერ მოხერხდა. პარამეტრებში აირჩიეთ სხვა ხმა ან აღადგინეთ ნაგულისხმევი.</string>
+    <string name="expanded">გაშლილი</string>
+    <string name="collapsed">ჩაკეცილი</string>
 </resources>

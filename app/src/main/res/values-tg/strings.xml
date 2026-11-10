@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Арзиш бояд байни 1 то 99 бошад</string>
     <string name="play_sounds_label">Пахши садоҳо</string>
     <string name="add_widget_warning">🪄 Фаромӯш накунед, ки виҷетро ба экрани асосӣ илова кунед, то нӯшокиҳои худро ҳисоб кунед ✨</string>
+    <string name="options">Танзимот</string>
+    <string name="sound_duration_hint">Аудиои то 3 сонияро интихоб кунед.</string>
+    <string name="sound_before_max_label">Садо пеш аз расидан ба ҳадди аксар</string>
+    <string name="sound_after_max_label">Садо ҳангоми расидан ё гузаштан аз ҳадди аксар</string>
+    <string name="choose_sound">Интихоби садо</string>
+    <string name="restore_default_sound">Барқарор кардани садои пешфарз</string>
+    <string name="default_sound">Садои пешфарз</string>
+    <string name="custom_sound">Садои шахсӣ</string>
+    <string name="sound_selection_error">Тағйир додани садо имконнопазир шуд. Файли аудиоии иҷрошавандаи то 3 сонияро интихоб кунед ё дубора кӯшиш кунед.</string>
+    <string name="sound_playback_error">Пахши садо имконнопазир шуд. Дар танзимот садои дигарро интихоб кунед ё садои пешфарзро барқарор кунед.</string>
+    <string name="expanded">Кушода</string>
+    <string name="collapsed">Пӯшида</string>
 </resources>

@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Маани 1 менен 99 ортосунда болушу керек</string>
     <string name="play_sounds_label">Үндөрдү ойнотуу</string>
     <string name="add_widget_warning">🪄 Суусундуктарыңызды саноо үчүн башкы экранга виджет кошууну унутпаңыз ✨</string>
+    <string name="options">Жөндөөлөр</string>
+    <string name="sound_duration_hint">Узактыгы 3 секунддан ашпаган аудиону тандаңыз.</string>
+    <string name="sound_before_max_label">Максимумга жеткенге чейинки үн</string>
+    <string name="sound_after_max_label">Максимумга жеткенде же андан ашкандагы үн</string>
+    <string name="choose_sound">Үн тандоо</string>
+    <string name="restore_default_sound">Демейки үндү калыбына келтирүү</string>
+    <string name="default_sound">Демейки үн</string>
+    <string name="custom_sound">Тандалган үн</string>
+    <string name="sound_selection_error">Үндү өзгөртүү мүмкүн болгон жок. Ойнотула турган, узактыгы 3 секунддан ашпаган аудиофайлды тандаңыз же кайра аракет кылыңыз.</string>
+    <string name="sound_playback_error">Үндү ойнотуу мүмкүн болгон жок. Жөндөөлөрдөн башка үн тандаңыз же демейки үндү калыбына келтириңиз.</string>
+    <string name="expanded">Жайылган</string>
+    <string name="collapsed">Жыйылган</string>
 </resources>

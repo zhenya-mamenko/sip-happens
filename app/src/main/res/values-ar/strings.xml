@@ -6,4 +6,16 @@
     <string name="invalid_range_message">يجب أن تكون القيمة بين 1 و 99</string>
     <string name="play_sounds_label">تشغيل الأصوات</string>
     <string name="add_widget_warning">🪄 لا تنسَ إضافة الأداة إلى الشاشة الرئيسية لعدّ مشروباتك ✨</string>
+    <string name="options">الخيارات</string>
+    <string name="sound_duration_hint">اختر مقطعًا صوتيًا لا تتجاوز مدته 3 ثوانٍ.</string>
+    <string name="sound_before_max_label">الصوت قبل الحد الأقصى</string>
+    <string name="sound_after_max_label">الصوت عند بلوغ الحد الأقصى أو تجاوزه</string>
+    <string name="choose_sound">اختيار صوت</string>
+    <string name="restore_default_sound">استعادة الصوت الافتراضي</string>
+    <string name="default_sound">الصوت الافتراضي</string>
+    <string name="custom_sound">صوت مخصص</string>
+    <string name="sound_selection_error">تعذر تغيير الصوت. اختر ملفًا صوتيًا قابلًا للتشغيل لا يتجاوز 3 ثوانٍ أو حاول مجددًا.</string>
+    <string name="sound_playback_error">تعذر تشغيل الصوت. اختر صوتًا آخر أو استعد الصوت الافتراضي من الخيارات.</string>
+    <string name="expanded">موسّع</string>
+    <string name="collapsed">مطوي</string>
 </resources>

@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Thamani lazima iwe kati ya 1 na 99</string>
     <string name="play_sounds_label">Cheza sauti</string>
     <string name="add_widget_warning">🪄 Usisahau kuongeza wijeti kwenye skrini ya mwanzo ili kuhesabu vinywaji vyako ✨</string>
+    <string name="options">Chaguo</string>
+    <string name="sound_duration_hint">Chagua sauti isiyozidi sekunde 3.</string>
+    <string name="sound_before_max_label">Sauti kabla ya kiwango cha juu</string>
+    <string name="sound_after_max_label">Sauti ukifikia au kuzidi kiwango cha juu</string>
+    <string name="choose_sound">Chagua sauti</string>
+    <string name="restore_default_sound">Rejesha sauti chaguomsingi</string>
+    <string name="default_sound">Sauti chaguomsingi</string>
+    <string name="custom_sound">Sauti maalumu</string>
+    <string name="sound_selection_error">Imeshindikana kubadilisha sauti. Chagua faili ya sauti inayoweza kuchezwa isiyozidi sekunde 3 au jaribu tena.</string>
+    <string name="sound_playback_error">Imeshindikana kucheza sauti. Chagua nyingine au rejesha sauti chaguomsingi kwenye Chaguo.</string>
+    <string name="expanded">Imepanuliwa</string>
+    <string name="collapsed">Imekunjwa</string>
 </resources>

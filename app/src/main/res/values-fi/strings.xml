@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Arvon täytyy olla välillä 1–99</string>
     <string name="play_sounds_label">Toista ääniä</string>
     <string name="add_widget_warning">🪄 Muista lisätä pienoisohjelma aloitusnäyttöön laskeaksesi juomasi ✨</string>
+    <string name="options">Asetukset</string>
+    <string name="sound_duration_hint">Valitse enintään 3 sekunnin ääni.</string>
+    <string name="sound_before_max_label">Ääni ennen enimmäismäärää</string>
+    <string name="sound_after_max_label">Ääni enimmäismäärän täyttyessä tai ylittyessä</string>
+    <string name="choose_sound">Valitse ääni</string>
+    <string name="restore_default_sound">Palauta oletusääni</string>
+    <string name="default_sound">Oletusääni</string>
+    <string name="custom_sound">Oma ääni</string>
+    <string name="sound_selection_error">Äänen vaihtaminen epäonnistui. Valitse toistettava, enintään 3 sekunnin äänitiedosto tai yritä uudelleen.</string>
+    <string name="sound_playback_error">Äänen toistaminen epäonnistui. Valitse toinen ääni tai palauta oletusääni asetuksissa.</string>
+    <string name="expanded">Laajennettu</string>
+    <string name="collapsed">Supistettu</string>
 </resources>

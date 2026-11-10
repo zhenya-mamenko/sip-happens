@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Vlera duhet të jetë midis 1 dhe 99</string>
     <string name="play_sounds_label">Luaj tinguj</string>
     <string name="add_widget_warning">🪄 Mos harroni të shtoni miniaplikacionin në ekranin kryesor për të numëruar pijet tuaja ✨</string>
+    <string name="options">Opsionet</string>
+    <string name="sound_duration_hint">Zgjidhni audio deri në 3 sekonda.</string>
+    <string name="sound_before_max_label">Tingulli para maksimumit</string>
+    <string name="sound_after_max_label">Tingulli kur arrihet ose tejkalohet maksimumi</string>
+    <string name="choose_sound">Zgjidh tingullin</string>
+    <string name="restore_default_sound">Rikthe tingullin e parazgjedhur</string>
+    <string name="default_sound">Tingulli i parazgjedhur</string>
+    <string name="custom_sound">Tingull i personalizuar</string>
+    <string name="sound_selection_error">Tingulli nuk mund të ndryshohej. Zgjidhni një skedar audio që mund të luhet deri në 3 sekonda ose provoni përsëri.</string>
+    <string name="sound_playback_error">Tingulli nuk mund të luhej. Zgjidhni një tjetër ose riktheni të parazgjedhurin te Opsionet.</string>
+    <string name="expanded">I zgjeruar</string>
+    <string name="collapsed">I palosur</string>
 </resources>

@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Nilai harus antara 1 dan 99</string>
     <string name="play_sounds_label">Putar suara</string>
     <string name="add_widget_warning">🪄 Jangan lupa tambahkan widget ke layar utama untuk menghitung minumanmu ✨</string>
+    <string name="options">Opsi</string>
+    <string name="sound_duration_hint">Pilih audio berdurasi maksimal 3 detik.</string>
+    <string name="sound_before_max_label">Suara sebelum batas maksimum</string>
+    <string name="sound_after_max_label">Suara saat mencapai atau melewati batas maksimum</string>
+    <string name="choose_sound">Pilih suara</string>
+    <string name="restore_default_sound">Pulihkan suara bawaan</string>
+    <string name="default_sound">Suara bawaan</string>
+    <string name="custom_sound">Suara kustom</string>
+    <string name="sound_selection_error">Tidak dapat mengganti suara. Pilih file audio yang dapat diputar dengan durasi maksimal 3 detik atau coba lagi.</string>
+    <string name="sound_playback_error">Tidak dapat memutar suara. Pilih suara lain atau pulihkan suara bawaan di Opsi.</string>
+    <string name="expanded">Diperluas</string>
+    <string name="collapsed">Diciutkan</string>
 </resources>

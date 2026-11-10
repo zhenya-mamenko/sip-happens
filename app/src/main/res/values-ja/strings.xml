@@ -6,4 +6,16 @@
     <string name="invalid_range_message">値は1から99の間である必要があります</string>
     <string name="play_sounds_label">音を再生</string>
     <string name="add_widget_warning">🪄 飲み物の数を記録するために、ホーム画面にウィジェットを追加するのを忘れないでください ✨</string>
+    <string name="options">オプション</string>
+    <string name="sound_duration_hint">3秒以内の音声を選択してください。</string>
+    <string name="sound_before_max_label">上限に達する前の音</string>
+    <string name="sound_after_max_label">上限に達したとき・超えたときの音</string>
+    <string name="choose_sound">音を選択</string>
+    <string name="restore_default_sound">標準の音に戻す</string>
+    <string name="default_sound">標準の音</string>
+    <string name="custom_sound">カスタム音</string>
+    <string name="sound_selection_error">音を変更できませんでした。再生可能な3秒以内の音声ファイルを選択するか、もう一度お試しください。</string>
+    <string name="sound_playback_error">音を再生できませんでした。オプションで別の音を選択するか、標準の音に戻してください。</string>
+    <string name="expanded">展開済み</string>
+    <string name="collapsed">折りたたみ済み</string>
 </resources>

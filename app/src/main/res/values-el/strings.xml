@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Η τιμή πρέπει να είναι μεταξύ 1 και 99</string>
     <string name="play_sounds_label">Αναπαραγωγή ήχων</string>
     <string name="add_widget_warning">🪄 Μην ξεχάσεις να προσθέσεις το γραφικό στοιχείο στην αρχική οθόνη για να μετράς τα ποτά σου ✨</string>
+    <string name="options">Επιλογές</string>
+    <string name="sound_duration_hint">Επιλέξτε ήχο διάρκειας έως 3 δευτερολέπτων.</string>
+    <string name="sound_before_max_label">Ήχος πριν από το μέγιστο</string>
+    <string name="sound_after_max_label">Ήχος στο μέγιστο ή πάνω από αυτό</string>
+    <string name="choose_sound">Επιλογή ήχου</string>
+    <string name="restore_default_sound">Επαναφορά προεπιλεγμένου ήχου</string>
+    <string name="default_sound">Προεπιλεγμένος ήχος</string>
+    <string name="custom_sound">Προσαρμοσμένος ήχος</string>
+    <string name="sound_selection_error">Αδυναμία αλλαγής ήχου. Επιλέξτε ένα αναπαραγώγιμο αρχείο ήχου έως 3 δευτερολέπτων ή δοκιμάστε ξανά.</string>
+    <string name="sound_playback_error">Αδυναμία αναπαραγωγής ήχου. Επιλέξτε άλλον ή επαναφέρετε τον προεπιλεγμένο στις Επιλογές.</string>
+    <string name="expanded">Αναπτυγμένο</string>
+    <string name="collapsed">Συμπτυγμένο</string>
 </resources>

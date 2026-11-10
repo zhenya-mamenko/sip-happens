@@ -6,4 +6,16 @@
     <string name="invalid_range_message">Caithfidh an luach a bheith idir 1 agus 99</string>
     <string name="play_sounds_label">Seinn fuaimeanna</string>
     <string name="add_widget_warning">🪄 Ná déan dearmad an ghiúirléid a chur leis an scáileán baile chun do dheochanna a chomhaireamh ✨</string>
+    <string name="options">Roghanna</string>
+    <string name="sound_duration_hint">Roghnaigh fuaim suas le 3 shoicind ar fad.</string>
+    <string name="sound_before_max_label">Fuaim roimh an uasmhéid</string>
+    <string name="sound_after_max_label">Fuaim ag an uasmhéid nó os a chionn</string>
+    <string name="choose_sound">Roghnaigh fuaim</string>
+    <string name="restore_default_sound">Athchóirigh an fhuaim réamhshocraithe</string>
+    <string name="default_sound">Fuaim réamhshocraithe</string>
+    <string name="custom_sound">Fuaim shaincheaptha</string>
+    <string name="sound_selection_error">Níorbh fhéidir an fhuaim a athrú. Roghnaigh comhad fuaime inseinnte nach faide ná 3 shoicind nó bain triail eile as.</string>
+    <string name="sound_playback_error">Níorbh fhéidir an fhuaim a sheinm. Roghnaigh ceann eile nó athchóirigh an fhuaim réamhshocraithe sna Roghanna.</string>
+    <string name="expanded">Leathnaithe</string>
+    <string name="collapsed">Laghdaighte</string>
 </resources>

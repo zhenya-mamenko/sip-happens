@@ -6,4 +6,16 @@
     <string name="invalid_range_message">मान 1 से 99 के बीच होना चाहिए</string>
     <string name="play_sounds_label">ध्वनि चलाएं</string>
     <string name="add_widget_warning">🪄 अपने पेय गिनने के लिए होम स्क्रीन पर विजेट जोड़ना न भूलें ✨</string>
+    <string name="options">विकल्प</string>
+    <string name="sound_duration_hint">अधिकतम 3 सेकंड का ऑडियो चुनें।</string>
+    <string name="sound_before_max_label">अधिकतम सीमा से पहले की ध्वनि</string>
+    <string name="sound_after_max_label">अधिकतम सीमा पर या उससे ऊपर की ध्वनि</string>
+    <string name="choose_sound">ध्वनि चुनें</string>
+    <string name="restore_default_sound">डिफ़ॉल्ट ध्वनि बहाल करें</string>
+    <string name="default_sound">डिफ़ॉल्ट ध्वनि</string>
+    <string name="custom_sound">कस्टम ध्वनि</string>
+    <string name="sound_selection_error">ध्वनि नहीं बदली जा सकी। अधिकतम 3 सेकंड की चलने योग्य ऑडियो फ़ाइल चुनें या फिर से कोशिश करें।</string>
+    <string name="sound_playback_error">ध्वनि नहीं चलाई जा सकी। विकल्प में दूसरी ध्वनि चुनें या डिफ़ॉल्ट ध्वनि बहाल करें।</string>
+    <string name="expanded">विस्तृत</string>
+    <string name="collapsed">संक्षिप्त</string>
 </resources>

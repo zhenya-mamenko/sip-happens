@@ -5,20 +5,35 @@ import android.content.ComponentName
 import android.os.Bundle
 import android.text.Editable
 import android.text.TextWatcher
+import android.util.Log
 import android.view.View
 import android.widget.ImageView
 import android.widget.Toast
+import androidx.activity.result.contract.ActivityResultContracts
+import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import androidx.core.view.isVisible
 import androidx.core.view.updateLayoutParams
 import androidx.core.view.updatePadding
+import androidx.lifecycle.lifecycleScope
+import androidx.lifecycle.Lifecycle
+import androidx.lifecycle.repeatOnLifecycle
 import com.mamenko.siphappens.databinding.ActivityMainBinding
+import kotlinx.coroutines.launch
 
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
+    private val soundOptions: SoundOptionsViewModel by viewModels()
+    private val beforeSoundPicker = registerForActivityResult(ActivityResultContracts.GetContent()) { uri ->
+        uri?.let { soundOptions.importSound(this, SoundType.BEFORE_MAX, it) }
+    }
+    private val afterSoundPicker = registerForActivityResult(ActivityResultContracts.GetContent()) { uri ->
+        uri?.let { soundOptions.importSound(this, SoundType.AFTER_MAX, it) }
+    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -48,6 +63,23 @@ class MainActivity : AppCompatActivity() {
 
         setupUI()
         loadSavedData()
+        setOptionsExpanded(savedInstanceState?.getBoolean("options_expanded") ?: false)
+        lifecycleScope.launch {
+            repeatOnLifecycle(Lifecycle.State.STARTED) {
+                soundOptions.state.collect { state ->
+                    updateSoundOptions()
+                    state.error?.let { error ->
+                        reportSoundSelectionError(error)
+                        soundOptions.clearError()
+                    }
+                }
+            }
+        }
+    }
+
+    override fun onSaveInstanceState(outState: Bundle) {
+        outState.putBoolean("options_expanded", binding.optionsContent.isVisible)
+        super.onSaveInstanceState(outState)
     }
 
     override fun onResume() {
@@ -55,6 +87,7 @@ class MainActivity : AppCompatActivity() {
         updateCounter()
         updateCurrentImage()
         updateWidgetWarning()
+        updateSoundOptions()
     }
 
     private fun setupUI() {
@@ -115,6 +148,48 @@ class MainActivity : AppCompatActivity() {
         binding.playSoundsCheckbox.setOnCheckedChangeListener { _, isChecked ->
             PreferenceManager.setPlaySounds(this, isChecked)
         }
+        binding.optionsHeader.setOnClickListener {
+            setOptionsExpanded(!binding.optionsContent.isVisible)
+        }
+        binding.chooseBeforeSound.setOnClickListener { beforeSoundPicker.launch("audio/*") }
+        binding.chooseAfterSound.setOnClickListener { afterSoundPicker.launch("audio/*") }
+        binding.resetBeforeSound.setOnClickListener {
+            soundOptions.resetSound(this, SoundType.BEFORE_MAX)
+        }
+        binding.resetAfterSound.setOnClickListener {
+            soundOptions.resetSound(this, SoundType.AFTER_MAX)
+        }
+    }
+
+    private fun setOptionsExpanded(expanded: Boolean) {
+        binding.optionsContent.isVisible = expanded
+        binding.optionsHeader.setIconResource(
+            if (expanded) R.drawable.ic_expand_less else R.drawable.ic_expand_more
+        )
+        ViewCompat.setStateDescription(
+            binding.optionsHeader, getString(if (expanded) R.string.expanded else R.string.collapsed)
+        )
+    }
+
+    private fun updateSoundOptions() {
+        val soundOperationInProgress = soundOptions.state.value.isBusy
+        val beforeCustom = CustomSoundStore.hasCustomSound(this, SoundType.BEFORE_MAX)
+        val afterCustom = CustomSoundStore.hasCustomSound(this, SoundType.AFTER_MAX)
+        binding.beforeSoundStatus.setText(
+            if (beforeCustom) R.string.custom_sound else R.string.default_sound
+        )
+        binding.afterSoundStatus.setText(
+            if (afterCustom) R.string.custom_sound else R.string.default_sound
+        )
+        binding.chooseBeforeSound.isEnabled = !soundOperationInProgress
+        binding.chooseAfterSound.isEnabled = !soundOperationInProgress
+        binding.resetBeforeSound.isEnabled = beforeCustom && !soundOperationInProgress
+        binding.resetAfterSound.isEnabled = afterCustom && !soundOperationInProgress
+    }
+
+    private fun reportSoundSelectionError(error: Exception) {
+        Log.e("MainActivity", "Cannot change sound", error)
+        Toast.makeText(this, R.string.sound_selection_error, Toast.LENGTH_LONG).show()
     }
 
     private fun loadSavedData() {

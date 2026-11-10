@@ -6,4 +6,16 @@
     <string name="invalid_range_message">El valor ha d\'estar entre 1 i 99</string>
     <string name="play_sounds_label">Reproduir sons</string>
     <string name="add_widget_warning">🪄 No oblidis afegir el giny a la pantalla d\'inici per comptar les teves begudes ✨</string>
+    <string name="options">Opcions</string>
+    <string name="sound_duration_hint">Tria un àudio de fins a 3 segons.</string>
+    <string name="sound_before_max_label">So abans del màxim</string>
+    <string name="sound_after_max_label">So en arribar al màxim o superar-lo</string>
+    <string name="choose_sound">Tria un so</string>
+    <string name="restore_default_sound">Restaura el so predeterminat</string>
+    <string name="default_sound">So predeterminat</string>
+    <string name="custom_sound">So personalitzat</string>
+    <string name="sound_selection_error">No es pot canviar el so. Tria un fitxer reproduïble de fins a 3 segons o torna-ho a provar.</string>
+    <string name="sound_playback_error">No es pot reproduir el so. Tria un altre so o restaura el predeterminat a Opcions.</string>
+    <string name="expanded">Desplegat</string>
+    <string name="collapsed">Plegat</string>
 </resources>
