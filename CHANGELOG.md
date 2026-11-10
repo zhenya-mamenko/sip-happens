@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file.
 
 - Added Options section to choose custom sounds.
 - Added scrolling when content does not fit on the screen.
+- Fixed Android SDK setup in CI.
 
 ## 1.2.0
 
